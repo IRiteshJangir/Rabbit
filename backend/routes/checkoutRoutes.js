@@ -1,5 +1,5 @@
 const express = require("express")
-const Checkout = require("../models/CheckOut")
+const Checkout = require("../models/Checkout")
 const Cart = require("../models/Cart")
 const Product = require("../models/Product")
 const { protect } = require("../middleware/authMiddleware")
