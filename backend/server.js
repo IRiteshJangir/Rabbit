@@ -1,8 +1,8 @@
 // ADD THESE THREE LINES AT THE VERY TOP
-const dns = require("node:dns");
-dns.setDefaultResultOrder("ipv4first"); // Forces Node to use IPv4
-const { setServers } = require("node:dns/promises");
-setServers(["1.1.1.1", "8.8.8.8"]);     // Bypasses ISP blocking
+// const dns = require("node:dns");
+// dns.setDefaultResultOrder("ipv4first"); // Forces Node to use IPv4
+// const { setServers } = require("node:dns/promises");
+// setServers(["1.1.1.1", "8.8.8.8"]);     // Bypasses ISP blocking
 
 const dotenv = require("dotenv");
 dotenv.config();
