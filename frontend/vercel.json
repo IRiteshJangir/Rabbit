@@ -9,7 +9,8 @@
     ],
     "routes":[
         {
-            "source": "/(.*)", "destination":"/"
+            "source": "/(.*)",
+             "destination":"/"
         }
     ]
 }
