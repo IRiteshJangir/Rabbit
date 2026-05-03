@@ -18,11 +18,11 @@ const products = [
     gender: "Men",
     images: [
       {
-        url: "https://images.unsplash.com/photo-1598032895397-b9472444bf93?w=500&h=500&fit=crop",
+        url: "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=500&h=500&fit=crop",
         altText: "Classic Oxford Button-Down Shirt Front View",
       },
       {
-        url: "https://images.unsplash.com/photo-1607345366928-199ea26cfe3e?w=500&h=500&fit=crop",
+        url: "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?w=500&h=500&fit=crop",
         altText: "Classic Oxford Button-Down Shirt Back View",
       },
     ],
@@ -46,11 +46,11 @@ const products = [
     gender: "Men",
     images: [
       {
-        url: "https://images.unsplash.com/photo-1603252109303-2751441dd157?w=500&h=500&fit=crop",
+        url: "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?w=500&h=500&fit=crop",
         altText: "Slim-Fit Stretch Shirt Front View",
       },
       {
-        url: "https://images.unsplash.com/photo-1609790030685-d6ed8b9e3e6c?w=500&h=500&fit=crop",
+        url: "https://images.unsplash.com/photo-1607345366928-199ea26cfe3e?w=500&h=500&fit=crop",
         altText: "Slim-Fit Stretch Shirt Back View",
       },
     ],
@@ -74,11 +74,11 @@ const products = [
     gender: "Men",
     images: [
       {
-        url: "https://images.unsplash.com/photo-1580657018950-c7f7d99a1e60?w=500&h=500&fit=crop",
+        url: "https://images.unsplash.com/photo-1588359348347-9bc6cbbb689e?w=500&h=500&fit=crop",
         altText: "Casual Denim Shirt Front View",
       },
       {
-        url: "https://images.unsplash.com/photo-1593030761757-71fae45fa0e7?w=500&h=500&fit=crop",
+        url: "https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=500&h=500&fit=crop",
         altText: "Casual Denim Shirt Back View",
       },
     ],
@@ -102,11 +102,11 @@ const products = [
     gender: "Men",
     images: [
       {
-        url: "https://images.unsplash.com/photo-1620012253295-c15cc3e65df4?w=500&h=500&fit=crop",
+        url: "https://images.unsplash.com/photo-1602810319428-019690571b5b?w=500&h=500&fit=crop",
         altText: "Printed Resort Shirt Front View",
       },
       {
-        url: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=500&fit=crop",
+        url: "https://images.unsplash.com/photo-1604537529428-15bcbeecfe4d?w=500&h=500&fit=crop",
         altText: "Printed Resort Shirt Back View",
       },
     ],
@@ -130,12 +130,12 @@ const products = [
     gender: "Men",
     images: [
       {
-        url: "https://images.unsplash.com/photo-1621072156002-e2fccdc0b176?w=500&h=500&fit=crop",
+        url: "https://images.unsplash.com/photo-1594938298603-c8148c4b4457?w=500&h=500&fit=crop",
         altText: "Slim-Fit Easy-Iron Shirt Front View",
       },
       {
-        url: "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=500&h=500&fit=crop",
-        altText: "Slim-Fit Easy-Iron Shirt Front View",
+        url: "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?w=500&h=500&fit=crop",
+        altText: "Slim-Fit Easy-Iron Shirt Side View",
       },
     ],
     rating: 5,
@@ -158,11 +158,11 @@ const products = [
     gender: "Men",
     images: [
       {
-        url: "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=500&h=500&fit=crop",
+        url: "https://images.unsplash.com/photo-1586363104862-3a5e2ab60d99?w=500&h=500&fit=crop",
         altText: "Polo T-Shirt Front View",
       },
       {
-        url: "https://images.unsplash.com/photo-1598032895397-b9472444bf93?w=500&h=500&fit=crop",
+        url: "https://images.unsplash.com/photo-1625910513597-58e6c2b57f40?w=500&h=500&fit=crop",
         altText: "Polo T-Shirt Back View",
       },
     ],
@@ -186,7 +186,7 @@ const products = [
     gender: "Men",
     images: [
       {
-        url: "https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=500&h=500&fit=crop",
+        url: "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=500&h=500&fit=crop",
         altText: "Oversized Graphic T-Shirt Front View",
       },
     ],
@@ -210,7 +210,7 @@ const products = [
     gender: "Men",
     images: [
       {
-        url: "https://images.unsplash.com/photo-1564557287817-3785e38ec1f5?w=500&h=500&fit=crop",
+        url: "https://images.unsplash.com/photo-1617196034183-421b4040ed20?w=500&h=500&fit=crop",
         altText: "Regular-Fit Henley Shirt Front View",
       },
     ],
@@ -234,7 +234,7 @@ const products = [
     gender: "Men",
     images: [
       {
-        url: "https://images.unsplash.com/photo-1618354691438-25bc04584c23?w=500&h=500&fit=crop",
+        url: "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=500&h=500&fit=crop",
         altText: "Long-Sleeve Thermal Tee Front View",
       },
     ],
@@ -282,7 +282,7 @@ const products = [
     gender: "Men",
     images: [
       {
-        url: "https://images.unsplash.com/photo-1517941823-815bea90d291?w=500&h=500&fit=crop",
+        url: "https://images.unsplash.com/photo-1552902865-b72c031ac5ea?w=500&h=500&fit=crop",
         altText: "Slim Fit Joggers Front View",
       },
     ],
@@ -306,7 +306,7 @@ const products = [
     gender: "Men",
     images: [
       {
-        url: "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?w=500&h=500&fit=crop",
+        url: "https://images.unsplash.com/photo-1627225924765-552d49cf47ad?w=500&h=500&fit=crop",
         altText: "Cargo Joggers Front View",
       },
     ],
@@ -330,7 +330,7 @@ const products = [
     gender: "Men",
     images: [
       {
-        url: "https://images.unsplash.com/photo-1593030761757-71fae45fa0e7?w=500&h=500&fit=crop",
+        url: "https://images.unsplash.com/photo-1513531926349-466f15ec8cc7?w=500&h=500&fit=crop",
         altText: "Tapered Sweatpants Front View",
       },
     ],
@@ -402,7 +402,7 @@ const products = [
     gender: "Men",
     images: [
       {
-        url: "https://images.unsplash.com/photo-1552902865-b72c031ac5ea?w=500&h=500&fit=crop",
+        url: "https://images.unsplash.com/photo-1517941823-815bea90d291?w=500&h=500&fit=crop",
         altText: "Track Pants Front View",
       },
     ],
@@ -426,7 +426,7 @@ const products = [
     gender: "Men",
     images: [
       {
-        url: "https://images.unsplash.com/photo-1594938298603-c8148c4b4457?w=500&h=500&fit=crop",
+        url: "https://images.unsplash.com/photo-1560243563-062bfc001d68?w=500&h=500&fit=crop",
         altText: "Slim Fit Trousers Front View",
       },
     ],
@@ -594,7 +594,7 @@ const products = [
     gender: "Women",
     images: [
       {
-        url: "https://images.unsplash.com/photo-1583496661160-fb5218ees823?w=500&h=500&fit=crop",
+        url: "https://images.unsplash.com/photo-1577900232427-18219b9166a0?w=500&h=500&fit=crop",
         altText: "Pleated Midi Skirt Front View",
       },
     ],
@@ -666,7 +666,7 @@ const products = [
     gender: "Women",
     images: [
       {
-        url: "https://images.unsplash.com/photo-1560243563-062bfc001d68?w=500&h=500&fit=crop",
+        url: "https://images.unsplash.com/photo-1591195853828-11db59a44f43?w=500&h=500&fit=crop",
         altText: "Paperbag Waist Shorts Front View",
       },
     ],
@@ -690,7 +690,7 @@ const products = [
     gender: "Women",
     images: [
       {
-        url: "https://images.unsplash.com/photo-1591195853828-11db59a44f43?w=500&h=500&fit=crop",
+        url: "https://images.unsplash.com/photo-1560243563-062bfc001d68?w=500&h=500&fit=crop",
         altText: "Stretch Denim Shorts Front View",
       },
     ],
@@ -738,7 +738,7 @@ const products = [
     gender: "Women",
     images: [
       {
-        url: "https://images.unsplash.com/photo-1594938298603-c8148c4b4457?w=500&h=500&fit=crop",
+        url: "https://images.unsplash.com/photo-1548624313-0396c75e4b1a?w=500&h=500&fit=crop",
         altText: "Classic Pleated Trousers Front View",
       },
     ],
@@ -810,7 +810,7 @@ const products = [
     gender: "Women",
     images: [
       {
-        url: "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?w=500&h=500&fit=crop",
+        url: "https://images.unsplash.com/photo-1554568218-0f1715e72254?w=500&h=500&fit=crop",
         altText: "Casual T-Shirt",
       },
     ],
@@ -858,7 +858,7 @@ const products = [
     gender: "Women",
     images: [
       {
-        url: "https://images.unsplash.com/photo-1485230895905-ec40ba36b9bc?w=500&h=500&fit=crop",
+        url: "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=500&h=500&fit=crop",
         altText: "Lace-Trimmed Cami Top",
       },
     ],
@@ -906,7 +906,7 @@ const products = [
     gender: "Women",
     images: [
       {
-        url: "https://images.unsplash.com/photo-1548624313-0396c75e4b1a?w=500&h=500&fit=crop",
+        url: "https://images.unsplash.com/photo-1485462537746-965f33f7f6a7?w=500&h=500&fit=crop",
         altText: "Ribbed Long-Sleeve Top",
       },
     ],
@@ -978,7 +978,7 @@ const products = [
     gender: "Women",
     images: [
       {
-        url: "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=500&h=500&fit=crop",
+        url: "https://images.unsplash.com/photo-1525507119028-ed4c629a60a3?w=500&h=500&fit=crop",
         altText: "V-Neck Wrap Top",
       },
     ],
